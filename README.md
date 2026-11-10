@@ -1,3 +1,3 @@
 # Zangetsu releases
 
-Update feed for Zangetsu. Installed copies read `latest.json` here and download the new app code from `app/` automatically.
+Download the latest **Zangetsu-Setup** installer from [Releases](https://github.com/daVertex/zangetsu-releases/releases/latest). The app updates itself when a new version is published here.
